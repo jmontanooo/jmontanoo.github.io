@@ -2,53 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://jmontanoo.github.io/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url><url>
-    <loc>/docs/</loc>
+    <loc>https://jmontanoo.github.io/docs/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url><url>
-    <loc>/docs/ejemplo/</loc>
+    <loc>https://jmontanoo.github.io/ejemplo/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>/ejemplo/</loc>
+    <loc>https://jmontanoo.github.io/markdown/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>/docs/markdown/</loc>
+    <loc>https://jmontanoo.github.io/post-1/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>/markdown/</loc>
+    <loc>https://jmontanoo.github.io/ross-lovegrove/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>/post-1/</loc>
+    <loc>https://jmontanoo.github.io/ron-arad/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>/ross-lovegrove/</loc>
+    <loc>https://jmontanoo.github.io/entrega-2/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>/ron-arad/</loc>
+    <loc>https://jmontanoo.github.io/entrega-4-barra-bvre-light/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>/entrega-2/</loc>
+    <loc>https://jmontanoo.github.io/entrega-3/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>/entrega-4-barra-bvre-light/</loc>
+    <loc>https://jmontanoo.github.io/entrega-5-bvre-light/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>/entrega-3/</loc>
+    <loc>https://jmontanoo.github.io/entrega-final-mobiliario/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>/entrega-5-bvre-light/</loc>
+    <loc>https://jmontanoo.github.io/gastronomia-molecular/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>/entrega-final-mobiliario/</loc>
-    <lastmod>2020-06-17T19:30:08+10:00</lastmod>
+    <loc>https://jmontanoo.github.io/categories/</loc>
   </url><url>
-    <loc>/gastronomia-molecular/</loc>
-    <lastmod>2020-06-17T19:30:08+10:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-  </url><url>
-    <loc>/tags/</loc>
+    <loc>https://jmontanoo.github.io/tags/</loc>
   </url>
 </urlset>

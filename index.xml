@@ -2,125 +2,107 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taller de Producto 2021 on Nombre Apellido - Taller Producto 2021</title>
-    <link>/</link>
+    <link>https://jmontanoo.github.io/</link>
     <description>Recent content in Taller de Producto 2021 on Nombre Apellido - Taller Producto 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://jmontanoo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ejemplo Shortcodes</title>
-      <link>/docs/ejemplo/</link>
+      <link>https://jmontanoo.github.io/ejemplo/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/docs/ejemplo/</guid>
-      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
-    </item>
-    
-    <item>
-      <title>Ejemplo Shortcodes</title>
-      <link>/ejemplo/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>/ejemplo/</guid>
+      <guid>https://jmontanoo.github.io/ejemplo/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
     <item>
       <title>Ejemplos Markdown</title>
-      <link>/docs/markdown/</link>
+      <link>https://jmontanoo.github.io/markdown/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/docs/markdown/</guid>
-      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
-    </item>
-    
-    <item>
-      <title>Ejemplos Markdown</title>
-      <link>/markdown/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>/markdown/</guid>
+      <guid>https://jmontanoo.github.io/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
     <item>
       <title>Algunas cosas de mi :)</title>
-      <link>/post-1/</link>
+      <link>https://jmontanoo.github.io/post-1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/post-1/</guid>
+      <guid>https://jmontanoo.github.io/post-1/</guid>
       <description>Contenido post 1</description>
     </item>
     
     <item>
       <title>Ross Lovegrove</title>
-      <link>/ross-lovegrove/</link>
+      <link>https://jmontanoo.github.io/ross-lovegrove/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/ross-lovegrove/</guid>
+      <guid>https://jmontanoo.github.io/ross-lovegrove/</guid>
       <description>Ross Lovegrove</description>
     </item>
     
     <item>
       <title>Ron Arad</title>
-      <link>/ron-arad/</link>
+      <link>https://jmontanoo.github.io/ron-arad/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/ron-arad/</guid>
+      <guid>https://jmontanoo.github.io/ron-arad/</guid>
       <description>Ron Arad</description>
     </item>
     
     <item>
       <title>Entrega 2</title>
-      <link>/entrega-2/</link>
+      <link>https://jmontanoo.github.io/entrega-2/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/entrega-2/</guid>
+      <guid>https://jmontanoo.github.io/entrega-2/</guid>
       <description>Entrega 2</description>
     </item>
     
     <item>
       <title>Entrega 4 BVRE LIGHT</title>
-      <link>/entrega-4-barra-bvre-light/</link>
+      <link>https://jmontanoo.github.io/entrega-4-barra-bvre-light/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/entrega-4-barra-bvre-light/</guid>
+      <guid>https://jmontanoo.github.io/entrega-4-barra-bvre-light/</guid>
       <description>Entrega 4 BVRE LIGHT</description>
     </item>
     
     <item>
       <title>Entrega 3</title>
-      <link>/entrega-3/</link>
+      <link>https://jmontanoo.github.io/entrega-3/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/entrega-3/</guid>
+      <guid>https://jmontanoo.github.io/entrega-3/</guid>
       <description>Entrega 3</description>
     </item>
     
     <item>
       <title>Entrega 5 BVRE LIGHT</title>
-      <link>/entrega-5-bvre-light/</link>
+      <link>https://jmontanoo.github.io/entrega-5-bvre-light/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/entrega-5-bvre-light/</guid>
+      <guid>https://jmontanoo.github.io/entrega-5-bvre-light/</guid>
       <description>Barra V!4</description>
     </item>
     
     <item>
       <title>Entrega 6</title>
-      <link>/entrega-final-mobiliario/</link>
+      <link>https://jmontanoo.github.io/entrega-final-mobiliario/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/entrega-final-mobiliario/</guid>
+      <guid>https://jmontanoo.github.io/entrega-final-mobiliario/</guid>
       <description>Entrega Final BVRE LIGHT</description>
     </item>
     
     <item>
       <title>Entrega 2.0</title>
-      <link>/gastronomia-molecular/</link>
+      <link>https://jmontanoo.github.io/gastronomia-molecular/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/gastronomia-molecular/</guid>
+      <guid>https://jmontanoo.github.io/gastronomia-molecular/</guid>
       <description>Gastronomia Molecular</description>
     </item>
     
